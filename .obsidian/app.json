@@ -1,3 +1,8 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }

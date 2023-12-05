@@ -15,6 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -43,7 +44,7 @@
             }
           },
           {
-            "id": "fc434f608bc39b20",
+            "id": "a3b264d9e834eab2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,14 +56,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "d0db0113decde639",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -79,46 +72,6 @@
         "id": "c3b2502a6e9f6353",
         "type": "tabs",
         "children": [
-          {
-            "id": "a25f0e2874b2b17f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ace8036ca26cc9b6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "052415be102f088b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
           {
             "id": "0073bd13b573ee84",
             "type": "leaf",
@@ -143,11 +96,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6d4ef1446f79da97",
+  "active": "b82ed091840c39b7",
   "lastOpenFiles": [
+    "assets",
     "测试文章.md",
     "README.md"
   ]
