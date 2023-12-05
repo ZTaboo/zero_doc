@@ -4,5 +4,9 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "assets/"
+  ],
+  "useMarkdownLinks": true
 }
