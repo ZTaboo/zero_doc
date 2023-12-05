@@ -1,6 +1,6 @@
 ## github参考地址
 
-[点击进入]([axum/examples/customize-extractor-error/src/main.rs at main · tokio-rs/axum (github.com)](https://github.com/tokio-rs/axum/blob/main/examples/customize-extractor-error/src/main.rs))
+[点击进入](https://github.com/tokio-rs/axum/blob/main/examples/customize-extractor-error/src/main.rs)
 
 ```rust
 use axum::extract::FromRequest;  
