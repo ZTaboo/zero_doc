@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "杂七杂八/解决 Vercel 在国内访问被墙的问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "杂七杂八/解决 Vercel 在国内访问被墙的问题.md"
               }
             }
           }
@@ -95,20 +95,45 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "hidden-folder-obsidian:隐藏文件夹": false
+      "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "f744133d307d055a",
+  "active": "b82ed091840c39b7",
   "lastOpenFiles": [
+    "杂七杂八/隧道穿透/Windows文件传输技巧.md",
+    "杂七杂八/隧道穿透/Linux文件传输技巧详解.md",
+    "杂七杂八/隧道穿透/Venom进行隧道穿透.md",
+    "杂七杂八/java基础记录.md",
+    "杂七杂八/隧道穿透/通过Termite进行隧道穿透.md",
+    "杂七杂八/隧道穿透/通过Venom进行隧道穿透.md",
+    "杂七杂八/隧道穿透/通过EW进行隧道穿透.md",
+    "杂七杂八/隧道穿透/利用HTTP协议进行隧道穿透.md",
+    "杂七杂八/隧道穿透/利用GRE协议进行隧道穿透.md",
+    "杂七杂八/隧道穿透/反弹流量分析与检测方法.md",
+    "杂七杂八/隧道穿透/利用DNS协议进行隧道穿透.md",
+    "杂七杂八/隧道穿透",
+    "杂七杂八/java基础记录2.md",
+    "杂七杂八/javascript批量删除qq空间说说.md",
+    "杂七杂八/css禁用number的自增自减按钮.md",
+    "杂七杂八/占位符记录.md",
+    "README.md",
+    "杂七杂八/docker开启远程调用.md",
+    "杂七杂八/Etcd基础记录.md",
+    "杂七杂八/cargo配置文件记录.md",
+    "杂七杂八/VmWare 15、16激活码.md",
+    "杂七杂八/vc_runtimeminimum_x86.msi缺失.md",
+    "杂七杂八/Windows端口查杀.md",
+    "杂七杂八/vscode字体丑陋.md",
+    "杂七杂八/WSL中禁用windows环境变量.md",
+    "杂七杂八/Windows OhMyPosh相关.md",
+    "杂七杂八/进程相关（process）.md",
+    "后端笔记/Golang",
     "未命名.canvas",
     "assets/Pasted image 20231205155544.png",
-    "README.md",
-    "后端笔记/Rust/Axum自定义Json解析错误.md",
     "后端笔记/Rust",
     "后端笔记",
     "前端笔记",
     "杂七杂八",
-    "assets",
-    "测试文章.md"
+    "assets"
   ]
 }

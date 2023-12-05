@@ -1,0 +1,4 @@
+> 删除 ~/.config/dconf/user文件夹 与 ~/.config/navicat文件夹，即可无限试用
+
+
+‍
