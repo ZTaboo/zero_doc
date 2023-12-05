@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38a023e4df12e955",
+        "id": "22c5021372a84a05",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4ef1446f79da97",
+            "id": "75b5abd07f4fbcac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "后端笔记/Rust/Axum自定义Json解析错误.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "后端笔记/Rust/Axum自定义Json解析错误.md"
               }
             }
           }
@@ -86,25 +86,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "b82ed091840c39b7",
+  "active": "75b5abd07f4fbcac",
   "lastOpenFiles": [
+    "README.md",
+    "后端笔记/Rust/Axum自定义Json解析错误.md",
+    "后端笔记/Rust",
+    "未命名.canvas",
+    "后端笔记",
+    "前端笔记",
+    "杂七杂八",
     "assets",
-    "测试文章.md",
-    "README.md"
+    "测试文章.md"
   ]
 }

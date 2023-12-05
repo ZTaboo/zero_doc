@@ -2,7 +2,6 @@
   "file-explorer",
   "global-search",
   "switcher",
-  "graph",
   "canvas",
   "page-preview",
   "daily-notes",
@@ -10,9 +9,7 @@
   "command-palette",
   "slash-command",
   "editor-status",
-  "markdown-importer",
   "outline",
   "word-count",
-  "workspaces",
   "file-recovery"
 ]
