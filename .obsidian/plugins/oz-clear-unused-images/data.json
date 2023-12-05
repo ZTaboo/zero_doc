@@ -1,6 +1,6 @@
 {
   "deleteOption": "permanent",
-  "logsModal": true,
+  "logsModal": false,
   "excludedFolders": "assets",
   "ribbonIcon": true,
   "excludeSubfolders": false

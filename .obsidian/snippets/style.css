@@ -1,4 +1,3 @@
-/* css 隐藏以imgs结尾的目录 */
-[data-path$="\\assets"] {
-    display: none;
+.nav-folder-title[data-path="assets"] {
+  display: none;
 }
