@@ -1,5 +1,16 @@
 ## Zero的个人笔记
 
-> 市面上的笔记软件都垃圾
+## 前端技能
 
-![](assets/Pasted%20image%2020231205155544.png)
+- Vue
+- React
+- Axios
+- Ant Design
+
+## 后端技能
+
+- Golang
+- go-zero
+- MySql
+- Gin
+- Fiber
