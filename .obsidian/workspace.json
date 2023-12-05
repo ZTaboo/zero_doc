@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂七杂八/filebeat基础.md",
+                "file": "杂七杂八/隧道穿透/利用DNS协议进行隧道穿透.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂七杂八/filebeat基础.md"
+                "file": "杂七杂八/隧道穿透/利用DNS协议进行隧道穿透.md"
               }
             }
           }
@@ -90,28 +90,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "hidden-folder-obsidian:显示文件夹": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "f744133d307d055a",
   "lastOpenFiles": [
-    "杂七杂八/解决 Vercel 在国内访问被墙的问题.md",
-    "杂七杂八/隧道穿透/Windows文件传输技巧.md",
-    "杂七杂八/隧道穿透/Linux文件传输技巧详解.md",
-    "杂七杂八/隧道穿透/Venom进行隧道穿透.md",
-    "杂七杂八/java基础记录.md",
+    "杂七杂八/filebeat基础.md",
     "杂七杂八/隧道穿透/通过Termite进行隧道穿透.md",
+    "杂七杂八/隧道穿透/Linux文件传输技巧详解.md",
     "杂七杂八/隧道穿透/通过Venom进行隧道穿透.md",
     "杂七杂八/隧道穿透/通过EW进行隧道穿透.md",
     "杂七杂八/隧道穿透/利用HTTP协议进行隧道穿透.md",
     "杂七杂八/隧道穿透/利用GRE协议进行隧道穿透.md",
     "杂七杂八/隧道穿透/反弹流量分析与检测方法.md",
+    "杂七杂八/隧道穿透/Windows文件传输技巧.md",
+    "杂七杂八/隧道穿透/Venom进行隧道穿透.md",
     "杂七杂八/隧道穿透/利用DNS协议进行隧道穿透.md",
+    "杂七杂八/解决 Vercel 在国内访问被墙的问题.md",
+    "杂七杂八/java基础记录.md",
     "杂七杂八/隧道穿透",
     "杂七杂八/java基础记录2.md",
     "杂七杂八/javascript批量删除qq空间说说.md",
@@ -126,7 +127,6 @@
     "杂七杂八/Windows端口查杀.md",
     "杂七杂八/vscode字体丑陋.md",
     "杂七杂八/WSL中禁用windows环境变量.md",
-    "杂七杂八/Windows OhMyPosh相关.md",
     "后端笔记/Golang",
     "未命名.canvas",
     "assets/Pasted image 20231205155544.png",

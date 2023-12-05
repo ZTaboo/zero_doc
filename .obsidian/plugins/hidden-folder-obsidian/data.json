@@ -1,4 +1,4 @@
 {
-  "folders": "assets",
+  "folders": "^assets$",
   "enable": true
 }
