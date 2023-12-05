@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂七杂八/解决 Vercel 在国内访问被墙的问题.md",
+                "file": "杂七杂八/filebeat基础.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂七杂八/解决 Vercel 在国内访问被墙的问题.md"
+                "file": "杂七杂八/filebeat基础.md"
               }
             }
           }
@@ -98,8 +98,9 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "b82ed091840c39b7",
+  "active": "f744133d307d055a",
   "lastOpenFiles": [
+    "杂七杂八/解决 Vercel 在国内访问被墙的问题.md",
     "杂七杂八/隧道穿透/Windows文件传输技巧.md",
     "杂七杂八/隧道穿透/Linux文件传输技巧详解.md",
     "杂七杂八/隧道穿透/Venom进行隧道穿透.md",
@@ -126,7 +127,6 @@
     "杂七杂八/vscode字体丑陋.md",
     "杂七杂八/WSL中禁用windows环境变量.md",
     "杂七杂八/Windows OhMyPosh相关.md",
-    "杂七杂八/进程相关（process）.md",
     "后端笔记/Golang",
     "未命名.canvas",
     "assets/Pasted image 20231205155544.png",
