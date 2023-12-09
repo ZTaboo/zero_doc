@@ -11,12 +11,14 @@
             "id": "ceb0f11ef2b58f4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "后端笔记/Rust/Mongo分页查询.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "IronTree.canvas",
+                "viewState": {
+                  "x": -271,
+                  "y": -104,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -58,8 +60,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端笔记/Rust/Mongo分页查询.md"
+                "file": "IronTree.canvas"
               }
             }
           }
@@ -101,10 +102,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a3b264d9e834eab2",
+  "active": "ceb0f11ef2b58f4d",
   "lastOpenFiles": [
-    "杂七杂八/filebeat基础.md",
     "后端笔记/Rust/Mongo分页查询.md",
+    "IronTree.canvas",
+    "杂七杂八/filebeat基础.md",
     "杂七杂八/Etcd基础记录.md",
     "README.md",
     "杂七杂八/进程相关（process）.md",
@@ -139,9 +141,7 @@
     "杂七杂八/java基础记录2.md",
     "杂七杂八/javascript批量删除qq空间说说.md",
     "杂七杂八/css禁用number的自增自减按钮.md",
-    "杂七杂八/VmWare 15、16激活码.md",
     "后端笔记/Golang",
-    "未命名.canvas",
     "后端笔记/Rust",
     "后端笔记",
     "前端笔记",
