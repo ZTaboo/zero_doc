@@ -11,14 +11,12 @@
             "id": "ceb0f11ef2b58f4d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "IronTree.canvas",
-                "viewState": {
-                  "x": -271,
-                  "y": -104,
-                  "zoom": 0
-                }
+                "file": "杂七杂八/数值范围记录.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -80,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IronTree.canvas"
+                "file": "杂七杂八/数值范围记录.md"
               }
             }
           }
@@ -104,6 +102,8 @@
   },
   "active": "ceb0f11ef2b58f4d",
   "lastOpenFiles": [
+    "后端笔记/Rust/常见问题.md",
+    "杂七杂八/数值范围记录.md",
     "后端笔记/Rust/Mongo分页查询.md",
     "IronTree.canvas",
     "杂七杂八/filebeat基础.md",
@@ -140,7 +140,6 @@
     "杂七杂八/隧道穿透",
     "杂七杂八/java基础记录2.md",
     "杂七杂八/javascript批量删除qq空间说说.md",
-    "杂七杂八/css禁用number的自增自减按钮.md",
     "后端笔记/Golang",
     "后端笔记/Rust",
     "后端笔记",
