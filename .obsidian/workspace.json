@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂七杂八/数值范围记录.md",
+                "file": "前端笔记/未命名.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂七杂八/数值范围记录.md"
+                "file": "前端笔记/未命名.md"
               }
             }
           }
@@ -101,10 +100,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a3b264d9e834eab2",
+  "active": "ceb0f11ef2b58f4d",
   "lastOpenFiles": [
-    "后端笔记/Rust/常见问题.md",
+    "前端笔记/前端非Hash路由刷新404.md",
+    "前端笔记/未命名.md",
     "杂七杂八/数值范围记录.md",
+    "后端笔记/Rust/常见问题.md",
     "后端笔记/Rust/Mongo分页查询.md",
     "IronTree.canvas",
     "杂七杂八/filebeat基础.md",
@@ -139,8 +140,6 @@
     "杂七杂八/解决 Vercel 在国内访问被墙的问题.md",
     "杂七杂八/java基础记录.md",
     "杂七杂八/隧道穿透",
-    "杂七杂八/java基础记录2.md",
-    "杂七杂八/javascript批量删除qq空间说说.md",
     "后端笔记/Golang",
     "后端笔记/Rust",
     "后端笔记",
