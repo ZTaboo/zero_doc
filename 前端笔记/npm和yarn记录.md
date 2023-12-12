@@ -32,8 +32,8 @@ https://registry.yarnpkg.com
 - 最新镜像地址
 
 ```bash
-<http://npm.taobao.org> => <https://npmmirror.com>
-<http://registry.npm.taobao.org> => <https://registry.npmmirror.com>
+http://npm.taobao.org => https://npmmirror.com
+http://registry.npm.taobao.org => https://registry.npmmirror.com
 # 前者为旧的镜像地址后者为新地址
 ```
 

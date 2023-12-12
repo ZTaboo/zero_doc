@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端笔记/未命名.md",
+                "file": "前端笔记/React路由嵌套重定向到默认路由.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端笔记/未命名.md"
+                "file": "前端笔记/React路由嵌套重定向到默认路由.md"
               }
             }
           }
@@ -102,8 +102,9 @@
   },
   "active": "ceb0f11ef2b58f4d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "前端笔记/React路由嵌套重定向到默认路由.md",
     "前端笔记/前端非Hash路由刷新404.md",
-    "前端笔记/未命名.md",
     "杂七杂八/数值范围记录.md",
     "后端笔记/Rust/常见问题.md",
     "后端笔记/Rust/Mongo分页查询.md",
@@ -138,7 +139,6 @@
     "杂七杂八/隧道穿透/Windows文件传输技巧.md",
     "杂七杂八/隧道穿透/Venom进行隧道穿透.md",
     "杂七杂八/解决 Vercel 在国内访问被墙的问题.md",
-    "杂七杂八/java基础记录.md",
     "杂七杂八/隧道穿透",
     "后端笔记/Golang",
     "后端笔记/Rust",
