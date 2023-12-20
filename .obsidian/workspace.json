@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cjson",
+                "query": "倒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,10 @@
   },
   "active": "a3b264d9e834eab2",
   "lastOpenFiles": [
-    "后端笔记/Rust/sea-orm迁移.md",
+    "后端笔记/c/CMake链接第三方库.md",
     "杂七杂八/数值范围记录.md",
+    "后端笔记/c",
+    "后端笔记/Rust/sea-orm迁移.md",
     "前端笔记/React路由嵌套重定向到默认路由.md",
     "conflict-files-obsidian-git.md",
     "前端笔记/前端非Hash路由刷新404.md",
@@ -139,7 +141,6 @@
     "杂七杂八/隧道穿透/利用HTTP协议进行隧道穿透.md",
     "杂七杂八/隧道穿透/利用GRE协议进行隧道穿透.md",
     "杂七杂八/隧道穿透/Windows文件传输技巧.md",
-    "杂七杂八/隧道穿透/Venom进行隧道穿透.md",
     "杂七杂八/隧道穿透",
     "后端笔记/Golang",
     "后端笔记/Rust",
